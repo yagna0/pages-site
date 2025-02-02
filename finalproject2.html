@@ -7,7 +7,7 @@
     
 </head>
 <body>
-    <h1>Contact Me</h1>
+    <h1>Please Enter your name</h1>
     <form id="contactForm">
         <label for="name">Name:</label>
         <input type="text" id="name" required>
@@ -25,7 +25,7 @@
         if (name.trim() === "") {
             document.getElementById("formMessage").textContent = "Please enter your name.";
         } else {
-            document.getElementById("formMessage").textContent = `Thank you, ${name}!`;
+            document.getElementById("formMessage").textContent = `Thank you !! Nice to meet you, ${name}!`;
         }
     });
 </script>

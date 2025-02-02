@@ -4,13 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Final Project 1</title>
-    <script type="module" src="/src/main.js"></script>
+   
 </head>
-<body>
-    <h1>Final Project 1</h1>
-    <p id="message">Click the button to change this text.</p>
-    <button id="changeText">Click Me</button>
 
-    <a href="/">Back to Home</a>
+<a href="/pages-site/">Back to Home</a>
+
 </body>
 </html>
